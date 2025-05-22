@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+aiokafka
+redis>=4.2.0
+sqlalchemy
+psycopg2-binary
+asyncpg
+sqlmodel
+pydantic
+pytest
+pytest-asyncio
+httpx
