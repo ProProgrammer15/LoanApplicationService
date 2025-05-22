@@ -29,17 +29,6 @@ DATABASE_URL=postgresql://user:password@postgres:5432/loan_db
 TEST_DATABASE_URL=postgresql://user:password@postgres:5432/test_loan_db
 KAFKA_URL=kafka:9092
 REDIS_URL=redis://redis:6379
-
-
-
-# Installation Guide
-
-## 1. Clone the Repository
-Clone the project repository to your local machine:
-
-```bash
-git clone <repository_url>
-cd <project_directory>
 ```
 
 ## Installation Guide
